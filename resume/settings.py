@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
     # local apps
     'styles',
+    'main',
 ]
 
 MIDDLEWARE = [
